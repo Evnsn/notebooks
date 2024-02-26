@@ -1,0 +1,13 @@
+name: expectation_maximization  # Replace with your desired environment name
+channels:
+  - defaults
+  - conda-forge  
+dependencies:
+  - python=3.10      # Replace with your desired Python version
+  - jupyterlab 
+  - numpy
+  - matplotlib
+  - seaborn
+  # - pandas
+  # - scikit-learn
+  
